@@ -10,7 +10,7 @@ We introduce a novel framework leveraging Vision Transformer-based **Token-Guide
 
 ## Repository Structure
 
-- `VisionTransformer.py`: Contains the 3D Vision Transformer-based models, including `VisionTransformer3D` and `TGCF` modules.
+- `architecture`: Contains the 3D Vision Transformer-based models. and `TGCF` modules.
 - `evaluation_prostate_cancer_detection_on_MRI/`: Evaluation scripts for prostate cancer detection performance.
 - `utils/`: Helper functions for data loading, training, inference, visualization, and metrics.
 
