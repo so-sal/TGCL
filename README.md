@@ -4,6 +4,10 @@ This repository contains the official PyTorch implementation of our proposed met
 
 **"Label-Guided Token Contrastive Learning for Registration-Free Prostate Cancer Detection in Ultrasound Images with MRI Supervision."**
 
+<p align="center">
+  <img src="Figure1.png" width="800">
+</p>
+
 ## Overview
 
 We introduce a novel framework leveraging Vision Transformer-based **Token-Guided Contrastive Fusion (TGCF)** for robust prostate cancer segmentation and classification using ultrasound (US) imaging, supervised by MRI without the need for explicit image registration.
